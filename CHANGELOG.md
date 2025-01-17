@@ -2,6 +2,13 @@
 
 ## [Unreleased]
 
+## 0.8.1
+
+- Strip broken anchor links from mnemonic descriptions
+- Fix x64 MacOS builds
+
+## 0.8.0
+
 - Support v9 instruction set
 - Explicitly highlight extend shift operands
 - Support GoTo definitions

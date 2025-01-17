@@ -8,7 +8,7 @@ A Visual Studio Code extension that provides language support for AArch64 assemb
 - Semantic highlighting
 - Completion sourced from mnemonics, labels, set directives, and macros
 - Real-time diagnostics with customizable configuration and support for `clang`
-- Document symbols (go to definition and document symbols)
+- Document symbols (goto definition and document symbols)
 
 ## Configuration
 
