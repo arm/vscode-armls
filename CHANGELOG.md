@@ -2,6 +2,11 @@
 
 ## [Unreleased]
 
+## 0.10.0
+
+- Fix handling of identifiers containing periods
+- Add arm.aarch64-assembly language
+
 ## 0.8.1
 
 - Strip broken anchor links from mnemonic descriptions
