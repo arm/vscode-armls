@@ -2,6 +2,14 @@
 
 ## [Unreleased]
 
+## 0.10.1
+
+- Support relocations
+- Reduce glibc requirement to 2.28
+- Fixed incorrect VS Code version requirement in package.json.
+  The extension can now only be installed on VS Code 1.91.0 or later.
+- Notify users when the language server fails to start.
+
 ## 0.10.0
 
 - Fix handling of identifiers containing periods
