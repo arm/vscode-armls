@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+## 0.10.2
+
+- Fix arm.aarch64-assembly language selection
+
 ## 0.10.1
 
 - Support relocations
