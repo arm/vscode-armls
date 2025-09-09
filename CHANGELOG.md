@@ -2,6 +2,12 @@
 
 ## [Unreleased]
 
+## 0.12.0
+
+- Update documentation links and instruction descriptions
+- Fix incorrect immediate operands
+- Support `HS` and `LO` condition codes
+
 ## 0.10.2
 
 - Fix arm.aarch64-assembly language selection
