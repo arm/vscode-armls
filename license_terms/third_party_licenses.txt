@@ -66,8 +66,8 @@ create-require 1.1.1: https://github.com/nuxt-contrib/create-require#readme : MI
 CSSselect 5.1.0: https://github.com/fb55/css-select : BSD 2-clause "Simplified" License
 css-what 6.1.0: https://github.com/fb55/css-what : BSD 2-clause "Simplified" License
 data-uri-to-buffer 4.0.1: https://github.com/TooTallNate/node-data-uri-to-buffer : MIT License
-debug-js/debug 2.6.9: https://github.com/visionmedia/debug : MIT License
-debug-js/debug 4.3.4: https://github.com/visionmedia/debug : MIT License
+debug-js/debug 2.6.9: https://github.com/debug-js/debug : MIT License
+debug-js/debug 4.3.4: https://github.com/debug-js/debug : MIT License
 Decamelize 4.0.0: https://github.com/sindresorhus/decamelize : MIT License
 decompress-response 6.0.0: https://github.com/sindresorhus/decompress-response : MIT License
 deep-extend 0.6.0: https://github.com/unclechu/node-deep-extend : MIT License
@@ -354,8 +354,8 @@ sindresorhus/supports-color v7.2.0: https://github.com/sindresorhus/supports-col
 stable-stringify 1.0.1: https://github.com/samn/json-stable-stringify : MIT License
 string-width 4.2.3: https://github.com/sindresorhus/string-width : MIT License
 string-width 5.1.2: https://github.com/sindresorhus/string-width : MIT License
-Strip ANSI 6.0.1: https://github.com/sindresorhus/strip-ansi : MIT License
-Strip ANSI 7.1.0: https://github.com/sindresorhus/strip-ansi : MIT License
+Strip ANSI 6.0.1: https://github.com/chalk/strip-ansi : MIT License
+Strip ANSI 7.1.0: https://github.com/chalk/strip-ansi : MIT License
 strip-final-newline 2.0.0: https://github.com/sindresorhus/strip-final-newline#readme : MIT License
 strip-json-comments 2.0.1: https://github.com/sindresorhus/strip-json-comments : MIT License
 strip-json-comments 3.1.1: https://github.com/sindresorhus/strip-json-comments : MIT License

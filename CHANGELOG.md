@@ -2,6 +2,18 @@
 
 ## [Unreleased]
 
+## 0.12.1
+
+### Bug Fixes
+
+- Correctly parse register alias directive (`.req`)
+- Highlight literal in `.set` directive
+
+### Performance
+
+- Parse each file once, rather than on every query
+- Mild improvements to operand hover
+
 ## 0.12.0
 
 - Update documentation links and instruction descriptions
