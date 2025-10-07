@@ -2,6 +2,12 @@
 
 ## [Unreleased]
 
+## 0.12.2
+
+- Support bitwise not (`~`) and unary plus (`+`)
+- Remove some incorrect entries from the instruction database
+- Allow changes to ArmLS settings to take effect without restarting VSCode
+
 ## 0.12.1
 
 ### Bug Fixes
