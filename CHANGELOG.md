@@ -2,6 +2,11 @@
 
 ## [Unreleased]
 
+## 0.12.3
+
+- Support character literals
+- Windows x64 build fixed
+
 ## 0.12.2
 
 - Support bitwise not (`~`) and unary plus (`+`)
