@@ -2,6 +2,13 @@
 
 ## [Unreleased]
 
+## 0.14.1
+
+## 0.14.0
+
+- Add support for 32 bit Arm instructions (A32/AArch32)
+- Show architecture features for instruction on hover
+
 ## 0.12.3
 
 - Support character literals

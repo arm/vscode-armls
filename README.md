@@ -1,6 +1,6 @@
 # ArmLS for Visual Studio Code
 
-A Visual Studio Code extension that provides language support for AArch64 assembly by means of the [ArmLS](https://github.com/arm/armls) language server.
+A Visual Studio Code extension that provides language support for Arm Assembly by means of the [ArmLS](https://github.com/arm/armls) language server.
 
 ## Features
 

@@ -7,13 +7,11 @@ acorn-walk 8.3.3: https://github.com/acornjs/acorn : MIT License
 aggregate-error 3.1.0: https://github.com/sindresorhus/aggregate-error#readme : MIT License
 ajv 6.12.6: https://github.com/ajv-validator/ajv.git : MIT License
 ajv 8.12.0: https://github.com/ajv-validator/ajv.git : MIT License
-ansi-colors 4.1.1: https://github.com/doowb/ansi-colors : MIT License
 ansi-regex 5.0.1: https://github.com/sindresorhus/ansi-regex : MIT License
 ansi-regex 6.1.0: https://github.com/sindresorhus/ansi-regex : MIT License
-ansi-styles 3.2.1: https://github.com/sindresorhus/ansi-styles : MIT License
-ansi-styles 6.2.1: https://github.com/sindresorhus/ansi-styles : MIT License
-ansi-styles v4.3.0: https://github.com/sindresorhus/ansi-styles : MIT License
-anymatch 3.1.2: https://github.com/es128/anymatch : ISC License
+ansi-styles 3.2.1: https://github.com/chalk/ansi-styles : MIT License
+ansi-styles 6.2.1: https://github.com/chalk/ansi-styles : MIT License
+ansi-styles v4.3.0: https://github.com/chalk/ansi-styles : MIT License
 arch 2.2.0: https://github.com/feross/arch : MIT License
 ARG 4.1.3: http://github.com/danielor/ARG : MIT License
 ARG 5.0.2: http://github.com/danielor/ARG : MIT License
@@ -22,15 +20,12 @@ azure-devops-node-api 11.2.0: https://github.com/Microsoft/azure-devops-node-api
 balanced-match 1.0.0: https://github.com/juliangruber/balanced-match : MIT License
 base64-js 1.5.1: https://www.npmjs.com/package/base64-js : MIT License
 before-after-hook 2.2.3: https://github.com/gr2m/before-after-hook : Apache License 2.0
-binary-extensions v2.2.0: https://github.com/sindresorhus/binary-extensions : MIT License
 bl 1.2.3: https://github.com/rvagg/bl : MIT License
 bl 4.1.0: https://github.com/rvagg/bl : MIT License
 boolbase 1.0.0 : ISC License
 bottleneck 2.19.5: https://github.com/SGrondin/bottleneck : MIT License
 brace-expansion 1.1.11: https://github.com/juliangruber/brace-expansion : MIT License
 brace-expansion 2.0.1: https://github.com/juliangruber/brace-expansion : MIT License
-braces 3.0.3: https://github.com/jonschlinkert/braces : MIT License
-browser-stdout 1.3.1: https://github.com/kumavis/browser-stdout : ISC License
 btoa-lite 1.0.0: https://github.com/hughsk/btoa-lite : MIT License
 Buffer v5.7.1: https://github.com/feross/native-buffer-browserif : MIT License
 buffer-alloc 1.2.0: https://github.com/linusu/buffer-alloc#readme : MIT License
@@ -41,7 +36,6 @@ buffer-fill 1.0.0: https://github.com/linusu/buffer-fill#readme : MIT License
 bytes.js 3.0.0: https://github.com/visionmedia/bytes.js : MIT License
 call-bind 1.0.7: https://github.com/ljharb/call-bind#readme : MIT License
 callsites 3.1.0: https://github.com/sindresorhus/callsites : MIT License
-camelcase 6.2.0: https://github.com/sindresorhus/camelcase : MIT License
 camelcase 7.0.1: https://github.com/sindresorhus/camelcase : MIT License
 Chalk 2.4.2: https://github.com/sindresorhus/chalk : MIT License
 Chalk 4.1.2: https://github.com/sindresorhus/chalk : MIT License
@@ -50,7 +44,6 @@ Chalk 5.3.0: https://github.com/sindresorhus/chalk : MIT License
 chalk/chalk-template 0.4.0: http://smollweide.github.io/chalk-template/ : MIT License
 cheerio 1.0.0: https://github.com/MatthewMueller/cheerio : MIT License
 cheerio-select 2.1.0: https://github.com/cheeriojs/cheerio-select#readme : BSD 2-clause "Simplified" License
-chokidar 3.5.3: https://github.com/paulmillr/chokidar : MIT License
 chownr 1.1.4: https://github.com/isaacs/chownr : ISC License
 clean-stack 2.2.0: https://github.com/sindresorhus/clean-stack#readme : MIT License
 clipboardy 3.0.0: https://github.com/sindresorhus/clipboardy : MIT License
@@ -68,7 +61,6 @@ css-what 6.1.0: https://github.com/fb55/css-what : BSD 2-clause "Simplified" Lic
 data-uri-to-buffer 4.0.1: https://github.com/TooTallNate/node-data-uri-to-buffer : MIT License
 debug-js/debug 2.6.9: https://github.com/debug-js/debug : MIT License
 debug-js/debug 4.3.4: https://github.com/debug-js/debug : MIT License
-Decamelize 4.0.0: https://github.com/sindresorhus/decamelize : MIT License
 decompress-response 6.0.0: https://github.com/sindresorhus/decompress-response : MIT License
 deep-extend 0.6.0: https://github.com/unclechu/node-deep-extend : MIT License
 deep-is 0.1.4: https://github.com/thlorenz/deep-is : MIT License
@@ -125,7 +117,6 @@ flat-cache 3.2.0: https://github.com/royriojas/flat-cache : MIT License
 flatted 3.3.1: https://github.com/WebReflection/flatted#readme : ISC License
 formdata-polyfill 4.0.10: https://github.com/jimmywarting/FormData#readme : MIT License
 fs-constants 1.0.0: https://github.com/mafintosh/fs-constants : MIT License
-fsevents 2.3.2: https://github.com/fsevents/fsevents : MIT License
 fs.realpath 1.0.0: https://github.com/isaacs/fs.realpath#readme : ISC License
 function-bind 1.1.2: https://github.com/Raynos/function-bind : MIT License
 get-caller-file 2.0.5: https://github.com/stefanpenner/get-caller-file : ISC License
@@ -145,7 +136,6 @@ has-proto 1.0.3: https://github.com/inspect-js/can-set-proto#readme : MIT Licens
 has-symbols 1.0.3: https://github.com/ljharb/has-symbols#readme : MIT License
 hosted-git-info 4.1.0: https://github.com/npm/hosted-git-info : ISC License
 htmlparser2 9.1.0: https://github.com/fb55/htmlparser2 : MIT License
-hughsk/flat 5.0.2: https://github.com/hughsk/flat : BSD 3-clause "New" or "Revised" License
 human-signals 2.1.0: https://git.io/JeluP : Apache License 2.0
 @humanwhocodes/config-array 0.11.14: https://github.com/humanwhocodes/config-array#readme : Apache License 2.0
 @humanwhocodes/module-importer 1.0.1: https://github.com/humanwhocodes/module-importer#readme : Apache License 2.0
@@ -159,7 +149,6 @@ inflight 1.0.6: https://github.com/isaacs/inflight : ISC License
 inherits v2.0.4: https://github.com/isaacs/inherits : ISC License
 isaacs/once 1.4.0: https://github.com/isaacs/once : ISC License
 isarray 1.0.0: https://github.com/juliangruber/isarray : MIT License
-is-binary-path v2.1.0: https://github.com/sindresorhus/is-binary-path : MIT License
 is-docker 2.2.1: https://github.com/sindresorhus/is-docker : MIT License
 isexe 2.0.0: https://github.com/isaacs/isexe#readme : ISC License
 is-extglob 2.1.1: https://github.com/jonschlinkert/is-extglob : MIT License
@@ -167,17 +156,14 @@ is-fullwidth-code-point 3.0.0: https://github.com/sindresorhus/is-fullwidth-code
 is-glob 4.0.3: https://www.npmjs.com/package/is-glob : MIT License
 is-number 7.0.0: https://github.com/jonschlinkert/is-number : MIT License
 is-path-inside 3.0.3: https://github.com/sindresorhus/is-path-inside : MIT License
-is-plain-obj 2.1.0: https://github.com/sindresorhus/is-plain-obj#readme : MIT License
 is-stream 2.0.1: https://github.com/sindresorhus/is-stream : MIT License
-is-unicode-supported 0.1.0: https://github.com/sindresorhus/is-unicode-supported#readme : MIT License
 is-wsl 2.2.0: https://github.com/sindresorhus/is-wsl#readme : MIT License
 @jridgewell/resolve-uri 3.1.2: https://github.com/jridgewell/resolve-uri#readme : MIT License
 @jridgewell/sourcemap-codec 1.5.0: https://github.com/jridgewell/sourcemap-codec#readme : MIT License
 @jridgewell/trace-mapping 0.3.9: https://github.com/jridgewell/trace-mapping#readme : MIT License
 jsdiff 4.0.2: https://github.com/kpdecker/jsdiff : BSD 3-clause "New" or "Revised" License
-jsdiff v5.0.0: https://github.com/kpdecker/jsdiff : BSD 3-clause "New" or "Revised" License
-jshttp/mime-types 2.1.18: https://github.com/jshttp/mime-types : MIT License
-jshttp/mime-types 2.1.35: https://github.com/jshttp/mime-types : MIT License
+jshttp/mime-types 2.1.18: https://github.com/expressjs/mime-types : MIT License
+jshttp/mime-types 2.1.35: https://github.com/expressjs/mime-types : MIT License
 JSHTTP's negotiator 0.6.3: https://www.npmjs.com/package/negotiator : MIT License
 json-buffer 3.0.1: https://github.com/dominictarr/json-buffer : MIT License
 json-schema-traverse 0.4.1: https://github.com/epoberezkin/json-schema-traverse : MIT License
@@ -199,16 +185,15 @@ lodash.isplainobject 4.0.6: https://lodash.com/ : MIT License
 lodash.isstring 4.0.1: https://lodash.com/ : MIT License
 lodash.merge 4.6.2: https://lodash.com/ : MIT License
 lodash.once 4.1.1: https://lodash.com/ : MIT License
-log-symbols 4.1.0: https://github.com/sindresorhus/log-symbols : MIT License
 mafintosh/pump 1.0.3: https://github.com/mafintosh/pump : MIT License
 mafintosh/pump 3.0.0: https://github.com/mafintosh/pump : MIT License
 make-error 1.3.6: https://github.com/julien-f/js-make-error : ISC License
 markdown-it 12.3.2: https://github.com/markdown-it/markdown-it : MIT License
-mathiasbynens/he 1.2.0: https://github.com/mathiasbynens/he : MIT License
 mdurl 1.0.1: https://github.com/markdown-it/mdurl : MIT License
 merge2 1.4.1: https://github.com/teambition/merge2 : MIT License
 Merge-Stream 2.0.0: https://github.com/grncdr/merge-stream : MIT License
 micromatch 4.0.8: https://github.com/jonschlinkert/micromatch : MIT License
+micromatch/braces 3.0.3: https://github.com/micromatch/braces : MIT License
 mime 1.6.0: https://github.com/broofa/node-mime : MIT License
 mime-db 1.33.0: https://github.com/jshttp/mime-db : MIT License
 mime-db 1.52.0: https://github.com/jshttp/mime-db : MIT License
@@ -216,17 +201,13 @@ mime-db 1.53.0: https://github.com/jshttp/mime-db : MIT License
 mimic-fn 2.1.0: https://github.com/sindresorhus/mimic-fn#readme : MIT License
 mimic-response 3.1.0: https://github.com/sindresorhus/mimic-response#readme : MIT License
 minimatch 3.1.2: https://github.com/isaacs/minimatch : ISC License
-minimatch 5.0.1: https://github.com/isaacs/minimatch : ISC License
-minimatch 5.1.6: https://github.com/isaacs/minimatch : ISC License
 minimatch 9.0.3: https://github.com/isaacs/minimatch : ISC License
 minimatch 9.0.5: https://github.com/isaacs/minimatch : ISC License
 minimist 1.2.8: https://github.com/minimistjs/minimist : MIT License
 mkdirp-classic 0.5.3: https://github.com/mafintosh/mkdirp-classic : MIT License
-Mocha (JavaScript Testing Framework) 10.3.0: http://mochajs.org : MIT License
 moxystudio/node-cross-spawn 7.0.3: https://github.com/moxystudio/node-cross-spawn : MIT License
 ms.js 2.0.0: https://github.com/guille/ms.js : MIT License
 ms.js 2.1.2: https://github.com/guille/ms.js : MIT License
-ms.js 2.1.3: https://github.com/guille/ms.js : MIT License
 mute-stream 0.0.8: https://github.com/isaacs/mute-stream : ISC License
 napi-build-utils 1.0.2: https://github.com/inspiredware/napi-build-utils#readme : MIT License
 natural-compare 1.4.0: https://github.com/litejs/natural-compare : MIT License
@@ -240,7 +221,6 @@ node-entities 2.1.0: https://github.com/FB55/node-entities : BSD 2-clause "Simpl
 node-entities 4.5.0: https://github.com/FB55/node-entities : BSD 2-clause "Simplified" License
 node-fetch 3.3.2: https://github.com/bitinn/node-fetch : MIT License
 node-glob 7.2.3: http://github.com/isaacs/node-glob : ISC License
-node-glob 8.1.0: http://github.com/isaacs/node-glob : ISC License
 node-ignore 5.3.1: https://github.com/kaelzhang/node-ignore : MIT License
 nodejs/string_decoder 1.1.1: https://github.com/nodejs/string_decoder : MIT License
 nodejs/string_decoder 1.3.0: https://github.com/nodejs/string_decoder : MIT License
@@ -256,7 +236,6 @@ node-semver 7.6.3: https://github.com/npm/node-semver : ISC License
 node-tmp 0.2.3: https://github.com/raszi/node-tmp : MIT License
 node-tunnel 0.0.6: https://github.com/koichik/node-tunnel : MIT License
 node-xml2js 0.4.23: https://github.com/Leonidas-from-XIV/node-xml2js : MIT License
-normalize-path 3.0.0: https://github.com/jonschlinkert/normalize-path : MIT License
 npm ini 1.3.8: https://github.com/npm/ini : ISC License
 npm-run-path 4.0.1: https://github.com/sindresorhus/npm-run-path : MIT License
 nth-check 2.1.1: https://github.com/fb55/nth-check : BSD 2-clause "Simplified" License
@@ -314,14 +293,13 @@ Qix-/color-convert 1.9.3: https://github.com/Qix-/color-convert : MIT License
 Qix-/color-convert 2.0.1: https://github.com/Qix-/color-convert : MIT License
 qs -  QS Querystring 6.13.0: https://github.com/ljharb/qs : BSD 3-clause "New" or "Revised" License
 queue-microtask 1.2.3: https://github.com/feross/queue-microtask : MIT License
-randombytes 2.1.0: https://github.com/crypto-browserify/randombytes : MIT License
 range-parser 1.2.0: https://github.com/jshttp/range-parser : MIT License
-read 1.0.7: https://github.com/isaacs/read#readme : BSD 2-clause "Simplified" License
+read 1.0.7: https://github.com/isaacs/read : BSD 2-clause "Simplified" License
 readable-stream 2.3.8: https://github.com/isaacs/readable-stream : MIT License
 readable-stream 3.6.2: https://github.com/isaacs/readable-stream : MIT License
-readdirp 3.6.0: https://github.com/thlorenz/readdirp : MIT License
 registry-auth-token 3.3.2: https://github.com/rexxars/registry-auth-token#readme : MIT License
 registry-url 3.1.0: https://github.com/sindresorhus/registry-url : MIT License
+request/tunnel-agent 0.6.0: https://github.com/request/tunnel-agent : Apache License 2.0
 require-directory 2.1.1: https://github.com/troygoode/node-require-directory/ : MIT License
 require-from-string 2.0.2: https://github.com/floatdrop/require-from-string : MIT License
 resolve-from 4.0.0: https://github.com/sindresorhus/resolve-from : MIT License
@@ -332,7 +310,6 @@ safe-buffer 5.1.2: https://github.com/feross/safe-buffer : MIT License
 safe-buffer 5.2.1: https://github.com/feross/safe-buffer : MIT License
 safer-buffer 2.1.2: https://github.com/ChALkeR/safer-buffer#readme : MIT License
 sax-js 1.4.1: http://github.com/isaacs/sax-js : ISC License
-serialize-javascript 6.0.0: https://github.com/yahoo/serialize-javascript : BSD 3-clause "New" or "Revised" License
 serve-handler 6.1.6: https://github.com/zeit/serve-handler#readme : MIT License
 set-function-length 1.2.2: https://github.com/ljharb/set-function-length#readme : MIT License
 shebang-command 2.0.0: https://github.com/kevva/shebang-command#readme : MIT License
@@ -348,9 +325,6 @@ sindresorhus/globby 11.1.0: https://github.com/sindresorhus/globby : MIT License
 sindresorhus/is-port-reachable 4.0.0: https://github.com/sindresorhus/is-port-reachable#readme : MIT License
 sindresorhus/onetime v5.1.2: https://github.com/sindresorhus/onetime : MIT License
 sindresorhus/slash v3.0.0: https://github.com/sindresorhus/slash : MIT License
-sindresorhus/supports-color 5.5.0: https://github.com/sindresorhus/supports-color : MIT License
-sindresorhus/supports-color 8.1.1: https://github.com/sindresorhus/supports-color : MIT License
-sindresorhus/supports-color v7.2.0: https://github.com/sindresorhus/supports-color : MIT License
 stable-stringify 1.0.1: https://github.com/samn/json-stable-stringify : MIT License
 string-width 4.2.3: https://github.com/sindresorhus/string-width : MIT License
 string-width 5.1.2: https://github.com/sindresorhus/string-width : MIT License
@@ -359,6 +333,8 @@ Strip ANSI 7.1.0: https://github.com/chalk/strip-ansi : MIT License
 strip-final-newline 2.0.0: https://github.com/sindresorhus/strip-final-newline#readme : MIT License
 strip-json-comments 2.0.1: https://github.com/sindresorhus/strip-json-comments : MIT License
 strip-json-comments 3.1.1: https://github.com/sindresorhus/strip-json-comments : MIT License
+supports-color 5.5.0: https://github.com/chalk/supports-color : MIT License
+supports-color v7.2.0: https://github.com/chalk/supports-color : MIT License
 tar-fs 1.16.3: https://github.com/mafintosh/tar-fs : MIT License
 tar-fs 2.1.1: https://github.com/mafintosh/tar-fs : MIT License
 targz 1.0.1: https://github.com/miskun/targz#readme : MIT License
@@ -373,7 +349,6 @@ ts-api-utils 1.2.1: https://github.com/JoshuaKGoldberg/ts-api-utils#readme : MIT
 @tsconfig/node14 1.0.3: https://github.com/tsconfig/bases#readme : MIT License
 @tsconfig/node16 1.0.4: https://github.com/tsconfig/bases#readme : MIT License
 ts-node 10.9.2: https://github.com/blakeembrey/ts-node : MIT License
-tunnel-agent 0.6.0: https://github.com/mikeal/tunnel-agent : Apache License 2.0
 type-check 0.4.0: https://github.com/gkz/type-check : MIT License
 typed-rest-client 1.8.11: https://github.com/Microsoft/typed-rest-client : MIT License
 type-fest 0.20.2: https://github.com/sindresorhus/type-fest#readme : (MIT License OR Creative Commons Zero v1.0 Universal)
@@ -426,7 +401,6 @@ whatwg-encoding 3.1.1: https://github.com/jsdom/whatwg-encoding#readme : MIT Lic
 whatwg-mimetype 4.0.0: https://github.com/jsdom/whatwg-mimetype : MIT License
 which 2.0.2: https://github.com/isaacs/node-which : ISC License
 widest-line 4.0.1: https://github.com/sindresorhus/widest-line : MIT License
-workerpool 6.2.1: https://github.com/josdejong/workerpool : Apache License 2.0
 wrap-ansi 8.1.0: https://github.com/chalk/wrap-ansi : MIT License
 wrap-ansi v7.0.0: https://github.com/chalk/wrap-ansi : MIT License
 wrappy 1.0.2: https://github.com/npm/wrappy : ISC License
@@ -436,7 +410,6 @@ y18n v5.0.6: https://github.com/yargs/y18n : ISC License
 yallist 4.0.0: https://github.com/isaacs/yallist#readme : ISC License
 yargs 16.2.0: https://github.com/yargs/yargs : MIT License
 yargs-parser v20.2.4: https://github.com/yargs/yargs-parser : ISC License
-yargs-unparser 2.0.0: https://github.com/moxystudio/yargs-unparser : MIT License
 yauzl 2.10.0: https://github.com/thejoshwolfe/yauzl : MIT License
 yazl 2.5.1: https://github.com/thejoshwolfe/yazl : MIT License
 yn v3.1.1: https://github.com/sindresorhus/yn : MIT License
@@ -446,7 +419,7 @@ yocto-queue 0.1.0: https://github.com/sindresorhus/yocto-queue#readme : MIT Lice
 Licenses: 
 
 Apache License 2.0
-(@humanwhocodes/config-array 0.11.14, @humanwhocodes/module-importer 1.0.1, before-after-hook 2.2.3, detect-libc 2.0.3, doctrine v3.0.0, dominictarr/rc 1.2.8, ecdsa-sig-formatter v1.0.11, eslint-visitor-keys 3.4.3, human-signals 2.1.0, tunnel-agent 0.6.0, TypeScript 5.3.3, workerpool 6.2.1)
+(@humanwhocodes/config-array 0.11.14, @humanwhocodes/module-importer 1.0.1, before-after-hook 2.2.3, detect-libc 2.0.3, doctrine v3.0.0, dominictarr/rc 1.2.8, ecdsa-sig-formatter v1.0.11, eslint-visitor-keys 3.4.3, human-signals 2.1.0, request/tunnel-agent 0.6.0, TypeScript 5.3.3)
 
 Apache License
 Version 2.0, January 2004
@@ -662,7 +635,7 @@ DAMAGE.
 ---
 
 BSD 3-clause "New" or "Revised" License
-(@humanwhocodes/object-schema 2.0.2, buffer-equal-constant-time 1.0.1, esquery 1.5.0, hughsk/flat 5.0.2, ieee754 v1.2.1, jsdiff 4.0.2, jsdiff v5.0.0, qs -  QS Querystring 6.13.0, serialize-javascript 6.0.0)
+(@humanwhocodes/object-schema 2.0.2, buffer-equal-constant-time 1.0.1, esquery 1.5.0, ieee754 v1.2.1, jsdiff 4.0.2, qs -  QS Querystring 6.13.0)
 
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
@@ -868,7 +841,7 @@ TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 ---
 
 ISC License
-(@ungap/structured-clone 1.2.0, anymatch 3.1.2, boolbase 1.0.0, browser-stdout 1.3.1, chownr 1.1.4, cliui v7.0.4, deprecation 2.3.1, fastq 1.17.1, flatted 3.3.1, fs.realpath 1.0.0, get-caller-file 2.0.5, glob-parent 5.1.2, glob-parent 6.0.2, hosted-git-info 4.1.0, inflight 1.0.6, inherits v2.0.4, isaacs/once 1.4.0, isexe 2.0.0, make-error 1.3.6, minimatch 3.1.2, minimatch 5.0.1, minimatch 5.1.6, minimatch 9.0.3, minimatch 9.0.5, mute-stream 0.0.8, nexdrew/ansi-align 3.0.1, node-glob 7.2.3, node-glob 8.1.0, node-lru-cache 10.4.3, node-lru-cache 6.0.0, node-semver 5.7.2, node-semver 7.6.3, npm ini 1.3.8, rimraf 3.0.2, sax-js 1.4.1, signal-exit 3.0.7, universal-user-agent 6.0.1, which 2.0.2, wrappy 1.0.2, y18n v5.0.6, yallist 4.0.0, yargs-parser v20.2.4)
+(@ungap/structured-clone 1.2.0, boolbase 1.0.0, chownr 1.1.4, cliui v7.0.4, deprecation 2.3.1, fastq 1.17.1, flatted 3.3.1, fs.realpath 1.0.0, get-caller-file 2.0.5, glob-parent 5.1.2, glob-parent 6.0.2, hosted-git-info 4.1.0, inflight 1.0.6, inherits v2.0.4, isaacs/once 1.4.0, isexe 2.0.0, make-error 1.3.6, minimatch 3.1.2, minimatch 9.0.3, minimatch 9.0.5, mute-stream 0.0.8, nexdrew/ansi-align 3.0.1, node-glob 7.2.3, node-lru-cache 10.4.3, node-lru-cache 6.0.0, node-semver 5.7.2, node-semver 7.6.3, npm ini 1.3.8, rimraf 3.0.2, sax-js 1.4.1, signal-exit 3.0.7, universal-user-agent 6.0.1, which 2.0.2, wrappy 1.0.2, y18n v5.0.6, yallist 4.0.0, yargs-parser v20.2.4)
 
 ISC License (ISCL)
 ==================
@@ -890,7 +863,7 @@ THIS SOFTWARE.
 ---
 
 MIT License
-(@aashutoshrathi/word-wrap 1.2.6, @cspotcode/source-map-support 0.8.1, @eslint-community/eslint-utils 4.4.0, @eslint-community/regexpp 4.10.0, @eslint/eslintrc 2.1.4, @eslint/js 8.57.0, @jridgewell/resolve-uri 3.1.2, @jridgewell/sourcemap-codec 1.5.0, @jridgewell/trace-mapping 0.3.9, @nodelib/fs.scandir 2.1.5, @nodelib/fs.stat 2.0.5, @nodelib/fs.walk 1.2.8, @octokit/app 14.1.0, @octokit/auth-app 6.1.1, @octokit/auth-oauth-app 7.1.0, @octokit/auth-oauth-device 6.1.0, @octokit/auth-oauth-user 4.1.0, @octokit/auth-token 4.0.0, @octokit/auth-unauthenticated 5.0.1, @octokit/core 5.2.0, @octokit/endpoint 9.0.5, @octokit/graphql 7.1.0, @octokit/oauth-app 6.1.0, @octokit/oauth-authorization-url 6.0.2, @octokit/oauth-methods 4.1.0, @octokit/openapi-types 20.0.0, @octokit/openapi-types 22.2.0, @octokit/plugin-paginate-graphql 4.0.1, @octokit/plugin-paginate-rest 11.3.1, @octokit/plugin-paginate-rest 9.2.1, @octokit/plugin-rest-endpoint-methods 13.2.2, @octokit/plugin-retry 6.0.1, @octokit/plugin-throttling 8.2.0, @octokit/request 8.4.0, @octokit/request-error 5.1.0, @octokit/types 12.6.0, @octokit/types 13.5.0, @octokit/webhooks-methods 4.1.0, @octokit/webhooks-types 7.4.0, @tsconfig/node10 1.0.11, @tsconfig/node12 1.0.11, @tsconfig/node14 1.0.3, @tsconfig/node16 1.0.4, @types/aws-lambda 8.10.143, @types/btoa-lite 1.0.2, @types/json-schema 7.0.15, @types/jsonwebtoken 9.0.6, @types/mocha 10.0.6, @types/node 18.19.3, @types/semver 7.5.8, @types/tar-fs 2.0.4, @types/tar-stream 3.1.3, @types/targz 1.0.4, @types/vscode 1.93.0, @types/yargs 17.0.33, @types/yargs-parser 21.0.3, @types/yauzl 2.10.3, @typescript-eslint/eslint-plugin 7.1.0, @typescript-eslint/scope-manager 7.1.0, @typescript-eslint/type-utils 7.1.0, @typescript-eslint/types 7.1.0, @typescript-eslint/utils 7.1.0, @typescript-eslint/visitor-keys 7.1.0, @vscode/wasm-wasi-lsp 0.1.0-pre.7, @zeit/schemas 2.36.0, Acorn 8.11.3, Acorn-JSX 5.3.2, acorn-walk 8.3.3, aggregate-error 3.1.0, ajv 6.12.6, ajv 8.12.0, ansi-colors 4.1.1, ansi-regex 5.0.1, ansi-regex 6.1.0, ansi-styles 3.2.1, ansi-styles 6.2.1, ansi-styles v4.3.0, arch 2.2.0, ARG 4.1.3, ARG 5.0.2, array-union v2.1.0, azure-devops-node-api 11.2.0, balanced-match 1.0.0, base64-js 1.5.1, binary-extensions v2.2.0, bl 1.2.3, bl 4.1.0, bottleneck 2.19.5, brace-expansion 1.1.11, brace-expansion 2.0.1, braces 3.0.3, btoa-lite 1.0.0, Buffer v5.7.1, buffer-alloc 1.2.0, buffer-alloc-unsafe 1.1.0, buffer-crc32 0.2.13, buffer-fill 1.0.0, bytes.js 3.0.0, call-bind 1.0.7, callsites 3.1.0, camelcase 6.2.0, camelcase 7.0.1, Chalk 2.4.2, Chalk 4.1.2, Chalk 5.0.1, Chalk 5.3.0, chalk/chalk-template 0.4.0, cheerio 1.0.0, chokidar 3.5.3, clean-stack 2.2.0, clipboardy 3.0.0, color-name 1.1.3, color-name 1.1.4, Commander.js 6.2.1, compression 1.7.4, content-disposition 0.5.2, core-util-is 1.0.3, create-require 1.1.1, data-uri-to-buffer 4.0.1, debug-js/debug 2.6.9, debug-js/debug 4.3.4, Decamelize 4.0.0, decompress-response 6.0.0, deep-extend 0.6.0, deep-is 0.1.4, define-data-property 1.1.4, dir-glob 3.0.1, dom-serializer 2.0.0, dominictarr/rc 1.2.8, eastasianwidth 0.2.0, emoji-regex 9.2.2, emoji-regex v8.0.0, encoding-sniffer 0.2.0, end-of-stream 1.4.4, es-define-property 1.0.0, es-errors 1.3.0, esbuild 0.23.1, escalade 3.1.1, escape-string-regexp 1.0.5, escape-string-regexp v4.0.0, ESLint 8.57.0, execa 5.1.1, expand-template 2.0.3, expressjs/accepts 1.3.8, expressjs/compressible 2.0.18, fast-deep-equal v3.1.3, fast-glob 3.3.2, fast-json-stable-stringify 2.1.0, fast-levenshtein 2.0.6, fd-slicer 1.1.0, fetch-blob 3.2.0, file-entry-cache 6.0.1, fill-range 7.1.1, find-up v5.0.0, flat-cache 3.2.0, formdata-polyfill 4.0.10, fs-constants 1.0.0, fsevents 2.3.2, function-bind 1.1.2, get-intrinsic 1.2.4, get-stream 6.0.1, get-stream v5.2.0, github-from-package 0.0.0, gopd 1.0.1, graphemer 1.4.0, has-flag 3.0.0, has-flag 4.0.0, has-property-descriptors 1.0.2, has-proto 1.0.3, has-symbols 1.0.3, hasown 2.0.2, htmlparser2 9.1.0, iconv-lite 0.6.3, import-fresh 3.3.0, imurmurhash 0.1.4, indent-string v4.0.0, is-binary-path v2.1.0, is-docker 2.2.1, is-extglob 2.1.1, is-fullwidth-code-point 3.0.0, is-glob 4.0.3, is-number 7.0.0, is-path-inside 3.0.3, is-plain-obj 2.1.0, is-stream 2.0.1, is-unicode-supported 0.1.0, is-wsl 2.2.0, isarray 1.0.0, js-yaml 4.1.0, JSHTTP's negotiator 0.6.3, jshttp/mime-types 2.1.18, jshttp/mime-types 2.1.35, json-buffer 3.0.1, json-schema-traverse 0.4.1, json-schema-traverse 1.0.0, jsonwebtoken 9.0.2, jwa v1.4.1, keytar 7.9.0, keyv 4.5.4, leven 3.1.0, levn 0.4.1, linkify-it 3.0.3, locate-path v6.0.0, lodash.includes 4.3.0, lodash.isboolean 3.0.3, lodash.isinteger 4.0.4, lodash.isnumber 3.0.3, lodash.isplainobject 4.0.6, lodash.isstring 4.0.1, lodash.merge 4.6.2, lodash.once 4.1.1, log-symbols 4.1.0, mafintosh/pump 1.0.3, mafintosh/pump 3.0.0, markdown-it 12.3.2, mathiasbynens/he 1.2.0, mdurl 1.0.1, Merge-Stream 2.0.0, merge2 1.4.1, micromatch 4.0.8, mime 1.6.0, mime-db 1.33.0, mime-db 1.52.0, mime-db 1.53.0, mimic-fn 2.1.0, mimic-response 3.1.0, minimist 1.2.8, mkdirp-classic 0.5.3, Mocha (JavaScript Testing Framework) 10.3.0, moxystudio/node-cross-spawn 7.0.3, ms.js 2.0.0, ms.js 2.1.2, ms.js 2.1.3, napi-build-utils 1.0.2, natural-compare 1.4.0, node-abi 3.65.0, node-addon-api 4.3.0, node-concat-map 0.0.1, node-domexception 1.0.0, node-fetch 3.3.2, node-ignore 5.3.1, node-jws 3.2.2, node-mkdirp 0.5.6, node-tmp 0.2.3, node-tunnel 0.0.6, node-xml2js 0.4.23, nodejs/string_decoder 1.1.1, nodejs/string_decoder 1.3.0, normalize-path 3.0.0, npm-run-path 4.0.1, object-inspect 1.13.2, octokit.js 3.2.1, octokit/webhooks.js 12.2.0, on-headers 1.0.2, optionator 0.9.3, p-limit 3.1.0, p-locate v5.0.0, parent-module 1.0.1, parse-semver 1.1.1, parse5 7.0.0, parse5 7.1.2, path-exists 4.0.0, path-is-absolute 1.0.1, path-is-inside 1.0.2, path-key 3.1.1, path-to-regexp 3.3.0, path-type 4.0.0, pend 1.2.0, picomatch 2.3.1, prebuild-install 7.1.2, prelude-ls 1.2.1, process-nextick-args v2.0.1, Punycode.js 2.3.1, Qix-/color-convert 1.9.3, Qix-/color-convert 2.0.1, queue-microtask 1.2.3, randombytes 2.1.0, range-parser 1.2.0, readable-stream 2.3.8, readable-stream 3.6.2, readdirp 3.6.0, registry-auth-token 3.3.2, registry-url 3.1.0, require-directory 2.1.1, require-from-string 2.0.2, resolve-from 4.0.0, reusify 1.0.4, run-parallel 1.2.0, safe-buffer 5.1.2, safe-buffer 5.2.1, safer-buffer 2.1.2, serve-handler 6.1.6, set-function-length 1.2.2, shebang-command 2.0.0, shebang-regex 3.0.0, side-channel 1.0.6, simple-concat 1.0.1, simple-get 4.0.1, sindresorhus/boxen 7.0.0, sindresorhus/cli-boxes 3.0.0, sindresorhus/globals 13.24.0, sindresorhus/globby 11.1.0, sindresorhus/is-port-reachable 4.0.0, sindresorhus/onetime v5.1.2, sindresorhus/slash v3.0.0, sindresorhus/supports-color 5.5.0, sindresorhus/supports-color 8.1.1, sindresorhus/supports-color v7.2.0, stable-stringify 1.0.1, string-width 4.2.3, string-width 5.1.2, Strip ANSI 6.0.1, Strip ANSI 7.1.0, strip-final-newline 2.0.0, strip-json-comments 2.0.1, strip-json-comments 3.1.1, tar-fs 1.16.3, tar-fs 2.1.1, tar-stream 1.6.2, tar-stream 2.2.0, targz 1.0.1, text-table 0.2.0, to-buffer 1.1.1, to-regex-range 5.0.1, ts-api-utils 1.2.1, ts-node 10.9.2, type-check 0.4.0, type-fest 0.20.2, type-fest 2.19.0, typed-rest-client 1.8.11, uc.micro 1.0.6, Underscore.js 1.13.7, undici 6.19.7, undici-types 5.26.5, universal-github-app-jwt 1.1.2, update-check 1.5.4, urljoin 4.0.1, util-deprecate 1.0.2, v8-compile-cache-lib 3.0.1, vary 1.1.2, vercel/serve 14.2.4, vsce 2.15.0, vscode-jsonrpc 9.0.0-next.5, vscode-languageclient 10.0.0-next.12, vscode-languageserver-node 3.17.6-next.10, vscode-languageserver-types 3.17.6-next.5, web-streams-polyfill 3.3.3, whatwg-encoding 3.1.1, whatwg-mimetype 4.0.0, widest-line 4.0.1, wrap-ansi 8.1.0, wrap-ansi v7.0.0, xmlbuilder-js v11.0.1, xtend 4.0.2, yargs 16.2.0, yargs-unparser 2.0.0, yauzl 2.10.0, yazl 2.5.1, yn v3.1.1, yocto-queue 0.1.0)
+(@aashutoshrathi/word-wrap 1.2.6, @cspotcode/source-map-support 0.8.1, @eslint-community/eslint-utils 4.4.0, @eslint-community/regexpp 4.10.0, @eslint/eslintrc 2.1.4, @eslint/js 8.57.0, @jridgewell/resolve-uri 3.1.2, @jridgewell/sourcemap-codec 1.5.0, @jridgewell/trace-mapping 0.3.9, @nodelib/fs.scandir 2.1.5, @nodelib/fs.stat 2.0.5, @nodelib/fs.walk 1.2.8, @octokit/app 14.1.0, @octokit/auth-app 6.1.1, @octokit/auth-oauth-app 7.1.0, @octokit/auth-oauth-device 6.1.0, @octokit/auth-oauth-user 4.1.0, @octokit/auth-token 4.0.0, @octokit/auth-unauthenticated 5.0.1, @octokit/core 5.2.0, @octokit/endpoint 9.0.5, @octokit/graphql 7.1.0, @octokit/oauth-app 6.1.0, @octokit/oauth-authorization-url 6.0.2, @octokit/oauth-methods 4.1.0, @octokit/openapi-types 20.0.0, @octokit/openapi-types 22.2.0, @octokit/plugin-paginate-graphql 4.0.1, @octokit/plugin-paginate-rest 11.3.1, @octokit/plugin-paginate-rest 9.2.1, @octokit/plugin-rest-endpoint-methods 13.2.2, @octokit/plugin-retry 6.0.1, @octokit/plugin-throttling 8.2.0, @octokit/request 8.4.0, @octokit/request-error 5.1.0, @octokit/types 12.6.0, @octokit/types 13.5.0, @octokit/webhooks-methods 4.1.0, @octokit/webhooks-types 7.4.0, @tsconfig/node10 1.0.11, @tsconfig/node12 1.0.11, @tsconfig/node14 1.0.3, @tsconfig/node16 1.0.4, @types/aws-lambda 8.10.143, @types/btoa-lite 1.0.2, @types/json-schema 7.0.15, @types/jsonwebtoken 9.0.6, @types/mocha 10.0.6, @types/node 18.19.3, @types/semver 7.5.8, @types/tar-fs 2.0.4, @types/tar-stream 3.1.3, @types/targz 1.0.4, @types/vscode 1.93.0, @types/yargs 17.0.33, @types/yargs-parser 21.0.3, @types/yauzl 2.10.3, @typescript-eslint/eslint-plugin 7.1.0, @typescript-eslint/scope-manager 7.1.0, @typescript-eslint/type-utils 7.1.0, @typescript-eslint/types 7.1.0, @typescript-eslint/utils 7.1.0, @typescript-eslint/visitor-keys 7.1.0, @vscode/wasm-wasi-lsp 0.1.0-pre.7, @zeit/schemas 2.36.0, Acorn 8.11.3, Acorn-JSX 5.3.2, acorn-walk 8.3.3, aggregate-error 3.1.0, ajv 6.12.6, ajv 8.12.0, ansi-regex 5.0.1, ansi-regex 6.1.0, ansi-styles 3.2.1, ansi-styles 6.2.1, ansi-styles v4.3.0, arch 2.2.0, ARG 4.1.3, ARG 5.0.2, array-union v2.1.0, azure-devops-node-api 11.2.0, balanced-match 1.0.0, base64-js 1.5.1, bl 1.2.3, bl 4.1.0, bottleneck 2.19.5, brace-expansion 1.1.11, brace-expansion 2.0.1, btoa-lite 1.0.0, Buffer v5.7.1, buffer-alloc 1.2.0, buffer-alloc-unsafe 1.1.0, buffer-crc32 0.2.13, buffer-fill 1.0.0, bytes.js 3.0.0, call-bind 1.0.7, callsites 3.1.0, camelcase 7.0.1, Chalk 2.4.2, Chalk 4.1.2, Chalk 5.0.1, Chalk 5.3.0, chalk/chalk-template 0.4.0, cheerio 1.0.0, clean-stack 2.2.0, clipboardy 3.0.0, color-name 1.1.3, color-name 1.1.4, Commander.js 6.2.1, compression 1.7.4, content-disposition 0.5.2, core-util-is 1.0.3, create-require 1.1.1, data-uri-to-buffer 4.0.1, debug-js/debug 2.6.9, debug-js/debug 4.3.4, decompress-response 6.0.0, deep-extend 0.6.0, deep-is 0.1.4, define-data-property 1.1.4, dir-glob 3.0.1, dom-serializer 2.0.0, dominictarr/rc 1.2.8, eastasianwidth 0.2.0, emoji-regex 9.2.2, emoji-regex v8.0.0, encoding-sniffer 0.2.0, end-of-stream 1.4.4, es-define-property 1.0.0, es-errors 1.3.0, esbuild 0.23.1, escalade 3.1.1, escape-string-regexp 1.0.5, escape-string-regexp v4.0.0, ESLint 8.57.0, execa 5.1.1, expand-template 2.0.3, expressjs/accepts 1.3.8, expressjs/compressible 2.0.18, fast-deep-equal v3.1.3, fast-glob 3.3.2, fast-json-stable-stringify 2.1.0, fast-levenshtein 2.0.6, fd-slicer 1.1.0, fetch-blob 3.2.0, file-entry-cache 6.0.1, fill-range 7.1.1, find-up v5.0.0, flat-cache 3.2.0, formdata-polyfill 4.0.10, fs-constants 1.0.0, function-bind 1.1.2, get-intrinsic 1.2.4, get-stream 6.0.1, get-stream v5.2.0, github-from-package 0.0.0, gopd 1.0.1, graphemer 1.4.0, has-flag 3.0.0, has-flag 4.0.0, has-property-descriptors 1.0.2, has-proto 1.0.3, has-symbols 1.0.3, hasown 2.0.2, htmlparser2 9.1.0, iconv-lite 0.6.3, import-fresh 3.3.0, imurmurhash 0.1.4, indent-string v4.0.0, is-docker 2.2.1, is-extglob 2.1.1, is-fullwidth-code-point 3.0.0, is-glob 4.0.3, is-number 7.0.0, is-path-inside 3.0.3, is-stream 2.0.1, is-wsl 2.2.0, isarray 1.0.0, js-yaml 4.1.0, JSHTTP's negotiator 0.6.3, jshttp/mime-types 2.1.18, jshttp/mime-types 2.1.35, json-buffer 3.0.1, json-schema-traverse 0.4.1, json-schema-traverse 1.0.0, jsonwebtoken 9.0.2, jwa v1.4.1, keytar 7.9.0, keyv 4.5.4, leven 3.1.0, levn 0.4.1, linkify-it 3.0.3, locate-path v6.0.0, lodash.includes 4.3.0, lodash.isboolean 3.0.3, lodash.isinteger 4.0.4, lodash.isnumber 3.0.3, lodash.isplainobject 4.0.6, lodash.isstring 4.0.1, lodash.merge 4.6.2, lodash.once 4.1.1, mafintosh/pump 1.0.3, mafintosh/pump 3.0.0, markdown-it 12.3.2, mdurl 1.0.1, Merge-Stream 2.0.0, merge2 1.4.1, micromatch 4.0.8, micromatch/braces 3.0.3, mime 1.6.0, mime-db 1.33.0, mime-db 1.52.0, mime-db 1.53.0, mimic-fn 2.1.0, mimic-response 3.1.0, minimist 1.2.8, mkdirp-classic 0.5.3, moxystudio/node-cross-spawn 7.0.3, ms.js 2.0.0, ms.js 2.1.2, napi-build-utils 1.0.2, natural-compare 1.4.0, node-abi 3.65.0, node-addon-api 4.3.0, node-concat-map 0.0.1, node-domexception 1.0.0, node-fetch 3.3.2, node-ignore 5.3.1, node-jws 3.2.2, node-mkdirp 0.5.6, node-tmp 0.2.3, node-tunnel 0.0.6, node-xml2js 0.4.23, nodejs/string_decoder 1.1.1, nodejs/string_decoder 1.3.0, npm-run-path 4.0.1, object-inspect 1.13.2, octokit.js 3.2.1, octokit/webhooks.js 12.2.0, on-headers 1.0.2, optionator 0.9.3, p-limit 3.1.0, p-locate v5.0.0, parent-module 1.0.1, parse-semver 1.1.1, parse5 7.0.0, parse5 7.1.2, path-exists 4.0.0, path-is-absolute 1.0.1, path-is-inside 1.0.2, path-key 3.1.1, path-to-regexp 3.3.0, path-type 4.0.0, pend 1.2.0, picomatch 2.3.1, prebuild-install 7.1.2, prelude-ls 1.2.1, process-nextick-args v2.0.1, Punycode.js 2.3.1, Qix-/color-convert 1.9.3, Qix-/color-convert 2.0.1, queue-microtask 1.2.3, range-parser 1.2.0, readable-stream 2.3.8, readable-stream 3.6.2, registry-auth-token 3.3.2, registry-url 3.1.0, require-directory 2.1.1, require-from-string 2.0.2, resolve-from 4.0.0, reusify 1.0.4, run-parallel 1.2.0, safe-buffer 5.1.2, safe-buffer 5.2.1, safer-buffer 2.1.2, serve-handler 6.1.6, set-function-length 1.2.2, shebang-command 2.0.0, shebang-regex 3.0.0, side-channel 1.0.6, simple-concat 1.0.1, simple-get 4.0.1, sindresorhus/boxen 7.0.0, sindresorhus/cli-boxes 3.0.0, sindresorhus/globals 13.24.0, sindresorhus/globby 11.1.0, sindresorhus/is-port-reachable 4.0.0, sindresorhus/onetime v5.1.2, sindresorhus/slash v3.0.0, stable-stringify 1.0.1, string-width 4.2.3, string-width 5.1.2, Strip ANSI 6.0.1, Strip ANSI 7.1.0, strip-final-newline 2.0.0, strip-json-comments 2.0.1, strip-json-comments 3.1.1, supports-color 5.5.0, supports-color v7.2.0, tar-fs 1.16.3, tar-fs 2.1.1, tar-stream 1.6.2, tar-stream 2.2.0, targz 1.0.1, text-table 0.2.0, to-buffer 1.1.1, to-regex-range 5.0.1, ts-api-utils 1.2.1, ts-node 10.9.2, type-check 0.4.0, type-fest 0.20.2, type-fest 2.19.0, typed-rest-client 1.8.11, uc.micro 1.0.6, Underscore.js 1.13.7, undici 6.19.7, undici-types 5.26.5, universal-github-app-jwt 1.1.2, update-check 1.5.4, urljoin 4.0.1, util-deprecate 1.0.2, v8-compile-cache-lib 3.0.1, vary 1.1.2, vercel/serve 14.2.4, vsce 2.15.0, vscode-jsonrpc 9.0.0-next.5, vscode-languageclient 10.0.0-next.12, vscode-languageserver-node 3.17.6-next.10, vscode-languageserver-types 3.17.6-next.5, web-streams-polyfill 3.3.3, whatwg-encoding 3.1.1, whatwg-mimetype 4.0.0, widest-line 4.0.1, wrap-ansi 8.1.0, wrap-ansi v7.0.0, xmlbuilder-js v11.0.1, xtend 4.0.2, yargs 16.2.0, yauzl 2.10.0, yazl 2.5.1, yn v3.1.1, yocto-queue 0.1.0)
 
 The MIT License
 ===============
