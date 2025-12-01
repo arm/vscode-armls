@@ -2,6 +2,15 @@
 
 ## [Unreleased]
 
+## 0.14.2
+
+- Support ldr <reg>, =<imm|addr>
+- Recognize named registers in operand classification
+- Correct highlighting for .file directives
+- Recognize fp as a register in A64
+- Highlight string literals
+- Refresh highlighing on config change
+
 ## 0.14.1
 
 ## 0.14.0
