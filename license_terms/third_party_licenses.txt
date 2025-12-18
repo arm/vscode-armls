@@ -231,8 +231,8 @@ node-jws 3.2.2: https://github.com/auth0/node-jws : MIT License
 node-lru-cache 10.4.3: http://github.com/isaacs/node-lru-cache : ISC License
 node-lru-cache 6.0.0: http://github.com/isaacs/node-lru-cache : ISC License
 node-mkdirp 0.5.6: https://github.com/substack/node-mkdirp : MIT License
-node-semver 5.7.2: https://github.com/npm/node-semver : ISC License
-node-semver 7.6.3: https://github.com/npm/node-semver : ISC License
+node-semver  5.7.2: https://github.com/npm/node-semver : ISC License
+node-semver  7.6.3: https://github.com/npm/node-semver : ISC License
 node-tmp 0.2.3: https://github.com/raszi/node-tmp : MIT License
 node-tunnel 0.0.6: https://github.com/koichik/node-tunnel : MIT License
 node-xml2js 0.4.23: https://github.com/Leonidas-from-XIV/node-xml2js : MIT License
@@ -299,7 +299,6 @@ readable-stream 2.3.8: https://github.com/isaacs/readable-stream : MIT License
 readable-stream 3.6.2: https://github.com/isaacs/readable-stream : MIT License
 registry-auth-token 3.3.2: https://github.com/rexxars/registry-auth-token#readme : MIT License
 registry-url 3.1.0: https://github.com/sindresorhus/registry-url : MIT License
-request/tunnel-agent 0.6.0: https://github.com/request/tunnel-agent : Apache License 2.0
 require-directory 2.1.1: https://github.com/troygoode/node-require-directory/ : MIT License
 require-from-string 2.0.2: https://github.com/floatdrop/require-from-string : MIT License
 resolve-from 4.0.0: https://github.com/sindresorhus/resolve-from : MIT License
@@ -349,6 +348,7 @@ ts-api-utils 1.2.1: https://github.com/JoshuaKGoldberg/ts-api-utils#readme : MIT
 @tsconfig/node14 1.0.3: https://github.com/tsconfig/bases#readme : MIT License
 @tsconfig/node16 1.0.4: https://github.com/tsconfig/bases#readme : MIT License
 ts-node 10.9.2: https://github.com/blakeembrey/ts-node : MIT License
+tunnel-agent 0.6.0: https://github.com/mikeal/tunnel-agent : Apache License 2.0
 type-check 0.4.0: https://github.com/gkz/type-check : MIT License
 typed-rest-client 1.8.11: https://github.com/Microsoft/typed-rest-client : MIT License
 type-fest 0.20.2: https://github.com/sindresorhus/type-fest#readme : (MIT License OR Creative Commons Zero v1.0 Universal)
@@ -419,7 +419,7 @@ yocto-queue 0.1.0: https://github.com/sindresorhus/yocto-queue#readme : MIT Lice
 Licenses: 
 
 Apache License 2.0
-(@humanwhocodes/config-array 0.11.14, @humanwhocodes/module-importer 1.0.1, before-after-hook 2.2.3, detect-libc 2.0.3, doctrine v3.0.0, dominictarr/rc 1.2.8, ecdsa-sig-formatter v1.0.11, eslint-visitor-keys 3.4.3, human-signals 2.1.0, request/tunnel-agent 0.6.0, TypeScript 5.3.3)
+(@humanwhocodes/config-array 0.11.14, @humanwhocodes/module-importer 1.0.1, before-after-hook 2.2.3, detect-libc 2.0.3, doctrine v3.0.0, dominictarr/rc 1.2.8, ecdsa-sig-formatter v1.0.11, eslint-visitor-keys 3.4.3, human-signals 2.1.0, tunnel-agent 0.6.0, TypeScript 5.3.3)
 
 Apache License
 Version 2.0, January 2004
@@ -841,7 +841,7 @@ TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 ---
 
 ISC License
-(@ungap/structured-clone 1.2.0, boolbase 1.0.0, chownr 1.1.4, cliui v7.0.4, deprecation 2.3.1, fastq 1.17.1, flatted 3.3.1, fs.realpath 1.0.0, get-caller-file 2.0.5, glob-parent 5.1.2, glob-parent 6.0.2, hosted-git-info 4.1.0, inflight 1.0.6, inherits v2.0.4, isaacs/once 1.4.0, isexe 2.0.0, make-error 1.3.6, minimatch 3.1.2, minimatch 9.0.3, minimatch 9.0.5, mute-stream 0.0.8, nexdrew/ansi-align 3.0.1, node-glob 7.2.3, node-lru-cache 10.4.3, node-lru-cache 6.0.0, node-semver 5.7.2, node-semver 7.6.3, npm ini 1.3.8, rimraf 3.0.2, sax-js 1.4.1, tapjs/signal-exit 3.0.7, universal-user-agent 6.0.1, which 2.0.2, wrappy 1.0.2, y18n v5.0.6, yallist 4.0.0, yargs-parser v20.2.4)
+(@ungap/structured-clone 1.2.0, boolbase 1.0.0, chownr 1.1.4, cliui v7.0.4, deprecation 2.3.1, fastq 1.17.1, flatted 3.3.1, fs.realpath 1.0.0, get-caller-file 2.0.5, glob-parent 5.1.2, glob-parent 6.0.2, hosted-git-info 4.1.0, inflight 1.0.6, inherits v2.0.4, isaacs/once 1.4.0, isexe 2.0.0, make-error 1.3.6, minimatch 3.1.2, minimatch 9.0.3, minimatch 9.0.5, mute-stream 0.0.8, nexdrew/ansi-align 3.0.1, node-glob 7.2.3, node-lru-cache 10.4.3, node-lru-cache 6.0.0, node-semver  5.7.2, node-semver  7.6.3, npm ini 1.3.8, rimraf 3.0.2, sax-js 1.4.1, tapjs/signal-exit 3.0.7, universal-user-agent 6.0.1, which 2.0.2, wrappy 1.0.2, y18n v5.0.6, yallist 4.0.0, yargs-parser v20.2.4)
 
 ISC License (ISCL)
 ==================

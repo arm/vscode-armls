@@ -2,11 +2,16 @@
 
 ## [Unreleased]
 
+## 0.16.0
+
+- Update to Armv9.7-A
+- Update documentation links and instruction descriptions
+
 ## 0.14.2
 
-- Support ldr <reg>, =<imm|addr>
+- Support `ldr <reg>, =<imm|addr>`
 - Recognize named registers in operand classification
-- Correct highlighting for .file directives
+- Correct highlighting for `.file` directives
 - Recognize fp as a register in A64
 - Highlight string literals
 - Refresh highlighing on config change

@@ -31,7 +31,7 @@ In addition to syntax highlighting, this extension offers rich editor features i
 
 ## Supported Architecture
 
-Armv9.6-A, both A32 and A64.
+Armv9.7-A, both A32 and A64.
 
 ## Configuration
 
